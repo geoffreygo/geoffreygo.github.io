@@ -149,6 +149,10 @@ input[type=submit] {
     /* margin-bottom: -65px; */
 }
 
+#hangman, #trivia {
+    border: 1px solid black;
+}
+
 @media screen and (max-width: 980px) {
 
     header {
