@@ -75,3 +75,7 @@ nav {
 nav .container {
     width: 60rem;
 }
+
+.spacer {
+    height: 6rem;
+}
